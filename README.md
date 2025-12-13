@@ -1,1 +1,1 @@
-# project-pithon-2025
+# project-python-2025
