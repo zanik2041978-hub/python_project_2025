@@ -26,14 +26,14 @@ your_project_name/
 ## Как Запустить
 ```bash
 python main.py
-
+```bash
 
 ## Результаты
 Результаты анлазиза находятся здесь:
 
 ```bash
 results/report.txt
-
+```bash
 
 ## Авторы
 
